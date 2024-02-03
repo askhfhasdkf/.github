@@ -15,6 +15,8 @@
  * [all-in-one-v2](https://github.com/askhfhasdkf/all-in-one-v2)
 6. Bridges
  * [op-bnb-bridger](https://github.com/askhfhasdkf/op-bnb-bridger)
+7. Galxe
+ * [Galxe AIO](https://github.com/the-laziest-coder/galxe-aio)
 
 ## Projects
 > Web3Go
