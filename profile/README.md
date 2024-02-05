@@ -11,6 +11,7 @@
  * [StarLabs-Twitter](https://github.com/askhfhasdkf/StarLabs-Twitter)
 4. Вывод с бирж
  * [all-cex-withdrawal](https://github.com/askhfhasdkf/all-cex-withdrawal)
+ * [all-cex-withdraw-bot](https://github.com/askhfhasdkf/all-cex-withdraw-bot)
 5. Multifunctional
  * [all-in-one-v2](https://github.com/askhfhasdkf/all-in-one-v2)
 6. Bridges
